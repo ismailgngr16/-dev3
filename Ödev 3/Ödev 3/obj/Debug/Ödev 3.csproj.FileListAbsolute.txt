@@ -1,0 +1,11 @@
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\bin\Debug\Ödev 3.exe.config
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\bin\Debug\Ödev 3.exe
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\bin\Debug\Ödev 3.pdb
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.csproj.AssemblyReference.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev_3.Form1.resources
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev_3.Properties.Resources.resources
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.csproj.GenerateResource.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.csproj.CoreCompileInputs.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.exe
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 3\Ödev 3\obj\Debug\Ödev 3.pdb
